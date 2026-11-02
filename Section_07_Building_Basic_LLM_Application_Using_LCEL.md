@@ -3,7 +3,7 @@
 > **Udemy Section 7 of 27**: Building Basic LLM Application Using LCEL  
 > **Lectures Covered**: Lecture 66 to Lecture 68  
 > **Instructor**: Krish Naik  
-> **Master Index**: [LECTURE_INDEX.md](./LECTURE_INDEX.md) | [00_Course_Overview_and_Roadmap.md](./00_Course_Overview_and_Roadmap.md)
+> **Master Index**: [README.md](./README.md) | [00_Course_Overview_and_Roadmap.md](./00_Course_Overview_and_Roadmap.md)
 
 ---
 
@@ -11,7 +11,7 @@
 > **Course Section**: Building Basic LLM Application Using LCEL  
 > **Instructor**: Krish Naik  
 > **Prerequisites**: [09_Document_Loaders_and_Text_Splitters.md](./09_Document_Loaders_and_Text_Splitters.md), [11_Ollama_Local_LLMs_and_LangSmith.md](./11_Ollama_Local_LLMs_and_LangSmith.md)  
-> **Master Index**: [LECTURE_INDEX.md](./LECTURE_INDEX.md) | [00_Course_Overview_and_Roadmap.md](./00_Course_Overview_and_Roadmap.md)
+> **Master Index**: [README.md](./README.md) | [00_Course_Overview_and_Roadmap.md](./00_Course_Overview_and_Roadmap.md)
 
 ---
 
@@ -235,7 +235,7 @@ print("Remote Output:", response)
 
 ---
 
-👉 [Back to Master Lecture Index](./LECTURE_INDEX.md) | [Back to Master Roadmap](./00_Course_Overview_and_Roadmap.md)
+👉 [Back to Master Lecture Index](./README.md) | [Back to Master Roadmap](./00_Course_Overview_and_Roadmap.md)
 
 ---
-👉 [Back to Master Lecture Index](./LECTURE_INDEX.md) | [Back to Master Roadmap](./00_Course_Overview_and_Roadmap.md)
+👉 [Back to Master Lecture Index](./README.md) | [Back to Master Roadmap](./00_Course_Overview_and_Roadmap.md)

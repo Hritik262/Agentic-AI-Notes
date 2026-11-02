@@ -3,7 +3,7 @@
 > **Udemy Section 4 of 27**: Getting Started With Pydantic In Python  
 > **Lectures Covered**: Lecture 45 to Lecture 46  
 > **Instructor**: Krish Naik  
-> **Master Index**: [LECTURE_INDEX.md](./LECTURE_INDEX.md) | [00_Course_Overview_and_Roadmap.md](./00_Course_Overview_and_Roadmap.md)
+> **Master Index**: [README.md](./README.md) | [00_Course_Overview_and_Roadmap.md](./00_Course_Overview_and_Roadmap.md)
 
 ---
 
@@ -57,7 +57,7 @@ class SearchFilter(BaseModel):
 2. **Real-world Application**: Used as a foundational building block in production Agentic AI systems.
 
 
-👉 [Back to Master Lecture Index](./LECTURE_INDEX.md) | [Back to Master Roadmap](./00_Course_Overview_and_Roadmap.md)
+👉 [Back to Master Lecture Index](./README.md) | [Back to Master Roadmap](./00_Course_Overview_and_Roadmap.md)
 
 ---
-👉 [Back to Master Lecture Index](./LECTURE_INDEX.md) | [Back to Master Roadmap](./00_Course_Overview_and_Roadmap.md)
+👉 [Back to Master Lecture Index](./README.md) | [Back to Master Roadmap](./00_Course_Overview_and_Roadmap.md)

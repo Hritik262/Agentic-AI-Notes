@@ -3,7 +3,7 @@
 > **Udemy Section 1 of 27**: Introduction To the Course  
 > **Lectures Covered**: Lecture 1 to Lecture 1  
 > **Instructor**: Krish Naik  
-> **Master Index**: [LECTURE_INDEX.md](./LECTURE_INDEX.md) | [00_Course_Overview_and_Roadmap.md](./00_Course_Overview_and_Roadmap.md)
+> **Master Index**: [README.md](./README.md) | [00_Course_Overview_and_Roadmap.md](./00_Course_Overview_and_Roadmap.md)
 
 ---
 
@@ -64,7 +64,7 @@ Every single lecture is mapped to its dedicated, bite-sized topic document below
 
 ---
 
-👉 [**Open Master 1-to-1 Lecture Index**](./LECTURE_INDEX.md)
+👉 [**Open Master 1-to-1 Lecture Index**](./README.md)
 
 ---
-👉 [Back to Master Lecture Index](./LECTURE_INDEX.md) | [Back to Master Roadmap](./00_Course_Overview_and_Roadmap.md)
+👉 [Back to Master Lecture Index](./README.md) | [Back to Master Roadmap](./00_Course_Overview_and_Roadmap.md)

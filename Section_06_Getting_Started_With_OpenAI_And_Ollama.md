@@ -3,7 +3,7 @@
 > **Udemy Section 6 of 27**: Getting Started With OpenAI And Ollama  
 > **Lectures Covered**: Lecture 60 to Lecture 65  
 > **Instructor**: Krish Naik  
-> **Master Index**: [LECTURE_INDEX.md](./LECTURE_INDEX.md) | [00_Course_Overview_and_Roadmap.md](./00_Course_Overview_and_Roadmap.md)
+> **Master Index**: [README.md](./README.md) | [00_Course_Overview_and_Roadmap.md](./00_Course_Overview_and_Roadmap.md)
 
 ---
 
@@ -11,7 +11,7 @@
 > **Course Section**: Getting Started With OpenAI And Ollama | Local Ollama LLMs & LangSmith Tracing  
 > **Instructor**: Krish Naik  
 > **Prerequisites**: [09_Document_Loaders_and_Text_Splitters.md](./09_Document_Loaders_and_Text_Splitters.md), [10_Embeddings_and_Vector_Stores.md](./10_Embeddings_and_Vector_Stores.md)  
-> **Master Index**: [LECTURE_INDEX.md](./LECTURE_INDEX.md) | [00_Course_Overview_and_Roadmap.md](./00_Course_Overview_and_Roadmap.md)
+> **Master Index**: [README.md](./README.md) | [00_Course_Overview_and_Roadmap.md](./00_Course_Overview_and_Roadmap.md)
 
 ---
 
@@ -192,7 +192,7 @@ print(res)
 
 ---
 
-👉 [Back to Master Lecture Index](./LECTURE_INDEX.md) | [Back to Master Roadmap](./00_Course_Overview_and_Roadmap.md)
+👉 [Back to Master Lecture Index](./README.md) | [Back to Master Roadmap](./00_Course_Overview_and_Roadmap.md)
 
 ---
-👉 [Back to Master Lecture Index](./LECTURE_INDEX.md) | [Back to Master Roadmap](./00_Course_Overview_and_Roadmap.md)
+👉 [Back to Master Lecture Index](./README.md) | [Back to Master Roadmap](./00_Course_Overview_and_Roadmap.md)

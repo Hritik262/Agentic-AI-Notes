@@ -3,7 +3,7 @@
 > **Course**: Complete Agentic AI Bootcamp With LangGraph and Langchain  
 > **Instructor**: Krish Naik  
 > **Structure**: 27 Sections | 181 Video Lectures | End-to-End Enterprise Projects  
-> **Master Index**: [LECTURE_INDEX.md](./LECTURE_INDEX.md)
+> **Master Index**: [README.md](./README.md)
 
 ---
 
@@ -54,4 +54,4 @@ flowchart TD
 - **[Section 27: Role Play](./Section_27_Role_Play.md)** — *Resource Section*
 
 ---
-👉 [Open Master 1-to-1 Lecture Index](./LECTURE_INDEX.md)
+👉 [Open Master 1-to-1 Lecture Index](./README.md)

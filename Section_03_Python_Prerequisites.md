@@ -3,7 +3,7 @@
 > **Udemy Section 3 of 27**: Python Prerequisites  
 > **Lectures Covered**: Lecture 5 to Lecture 44  
 > **Instructor**: Krish Naik  
-> **Master Index**: [LECTURE_INDEX.md](./LECTURE_INDEX.md) | [00_Course_Overview_and_Roadmap.md](./00_Course_Overview_and_Roadmap.md)
+> **Master Index**: [README.md](./README.md) | [00_Course_Overview_and_Roadmap.md](./00_Course_Overview_and_Roadmap.md)
 
 ---
 
@@ -56,7 +56,7 @@ agent_state = {
 2. **Real-world Application**: Used as a foundational building block in production Agentic AI systems.
 
 
-👉 [Back to Master Lecture Index](./LECTURE_INDEX.md) | [Back to Master Roadmap](./00_Course_Overview_and_Roadmap.md)
+👉 [Back to Master Lecture Index](./README.md) | [Back to Master Roadmap](./00_Course_Overview_and_Roadmap.md)
 
 
 ---
@@ -108,7 +108,7 @@ print(f"Filtered {len(relevant_docs)} high-relevance docs.")
 2. **Real-world Application**: Used as a foundational building block in production Agentic AI systems.
 
 
-👉 [Back to Master Lecture Index](./LECTURE_INDEX.md) | [Back to Master Roadmap](./00_Course_Overview_and_Roadmap.md)
+👉 [Back to Master Lecture Index](./README.md) | [Back to Master Roadmap](./00_Course_Overview_and_Roadmap.md)
 
 
 ---
@@ -166,7 +166,7 @@ except ToolExecutionError as e:
 2. **Real-world Application**: Used as a foundational building block in production Agentic AI systems.
 
 
-👉 [Back to Master Lecture Index](./LECTURE_INDEX.md) | [Back to Master Roadmap](./00_Course_Overview_and_Roadmap.md)
+👉 [Back to Master Lecture Index](./README.md) | [Back to Master Roadmap](./00_Course_Overview_and_Roadmap.md)
 
 
 ---
@@ -222,7 +222,7 @@ print(tool("SELECT * FROM users"))
 2. **Real-world Application**: Used as a foundational building block in production Agentic AI systems.
 
 
-👉 [Back to Master Lecture Index](./LECTURE_INDEX.md) | [Back to Master Roadmap](./00_Course_Overview_and_Roadmap.md)
+👉 [Back to Master Lecture Index](./README.md) | [Back to Master Roadmap](./00_Course_Overview_and_Roadmap.md)
 
 
 ---
@@ -286,7 +286,7 @@ run_stream()
 2. **Real-world Application**: Used as a foundational building block in production Agentic AI systems.
 
 
-👉 [Back to Master Lecture Index](./LECTURE_INDEX.md) | [Back to Master Roadmap](./00_Course_Overview_and_Roadmap.md)
+👉 [Back to Master Lecture Index](./README.md) | [Back to Master Roadmap](./00_Course_Overview_and_Roadmap.md)
 
 
 ---
@@ -346,7 +346,7 @@ logger.debug("State initialized with keys: [messages, sender, turn]")
 2. **Real-world Application**: Used as a foundational building block in production Agentic AI systems.
 
 
-👉 [Back to Master Lecture Index](./LECTURE_INDEX.md) | [Back to Master Roadmap](./00_Course_Overview_and_Roadmap.md)
+👉 [Back to Master Lecture Index](./README.md) | [Back to Master Roadmap](./00_Course_Overview_and_Roadmap.md)
 
 ---
-👉 [Back to Master Lecture Index](./LECTURE_INDEX.md) | [Back to Master Roadmap](./00_Course_Overview_and_Roadmap.md)
+👉 [Back to Master Lecture Index](./README.md) | [Back to Master Roadmap](./00_Course_Overview_and_Roadmap.md)
