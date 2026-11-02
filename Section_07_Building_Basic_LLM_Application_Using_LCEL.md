@@ -27,8 +27,8 @@ flowchart LR
     Client["Client App / Frontend"] -->|POST /chain/invoke| FastAPI["FastAPI Server + LangServe"]
     
     subgraph LCEL["Compiled LCEL Runnable Chain"]
-        Prompt["ChatPromptTemplate"] -->|'|' Pipe| Groq["ChatGroq (Llama 3.3 70B)"]
-        Groq -->|'|' Pipe| Parser["StrOutputParser"]
+        Prompt["ChatPromptTemplate"] -->|LCEL Pipe| Groq["ChatGroq (Llama 3.3 70B)"]
+        Groq -->|LCEL Pipe| Parser["StrOutputParser"]
     end
 
     FastAPI --> LCEL
